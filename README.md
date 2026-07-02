@@ -613,19 +613,16 @@ head(data_analisis)
 
 ## Output
 
-Output hasil pengolahan data ditampilkan sebagai berikut.
+Output hasil pengolahan data ditampilkan pada tabel berikut.
 
-```r
-> head(data_analisis)
-
-  Durasi_Tidur Pola_Tidur Kualitas_Tidur Dampak_Akademik
-1          3.0        3.4            3.5               4
-2          2.5        2.6            2.5               3
-3          3.0        2.6            3.0               3
-4          3.0        4.4            3.5               4
-5          1.5        2.6            2.0               3
-6          2.0        1.8            1.0               3
-```
+| Responden | Skor Durasi Tidur | Skor Pola Tidur | Skor Kualitas Tidur | Skor Dampak Akademik |
+|----------:|------------------:|----------------:|--------------------:|---------------------:|
+| 1 | 3.0 | 3.4 | 3.5 | 4 |
+| 2 | 2.5 | 2.6 | 2.5 | 3 |
+| 3 | 3.0 | 2.6 | 3.0 | 3 |
+| 4 | 3.0 | 4.4 | 3.5 | 4 |
+| 5 | 1.5 | 2.6 | 2.0 | 3 |
+| 6 | 2.0 | 1.8 | 1.0 | 3 |
 
 ---
 
