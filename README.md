@@ -2,9 +2,14 @@
 A cluster sampling project to estimate the average sleep duration and sleep quality among Statistics students.
 # 🌙 Sleep Matters: Estimasi Rata-Rata Durasi dan Kualitas Tidur Mahasiswa Statistika Universitas Mataram Menggunakan Cluster Sampling
 
-![Language](https://img.shields.io/badge/Language-R-blue)
+![R](https://img.shields.io/badge/R-4.5-blue)
 ![Method](https://img.shields.io/badge/Method-Cluster%20Sampling-green)
-![Analysis](https://img.shields.io/badge/Analysis-Survey-orange)
+![Analysis](https://img.shields.io/badge/Analysis-Survey%20Statistics-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+# Daftar Isi
+
 
 ## 📖 Project Description
 
@@ -84,6 +89,26 @@ Penelitian ini bertujuan untuk mengestimasi rata-rata durasi tidur dan menggamba
 - Mendeskripsikan pola dan kualitas tidur mahasiswa berdasarkan hasil kuesioner.
 - Mendeskripsikan dampak pola tidur terhadap aktivitas akademik mahasiswa.
 - Menyajikan hasil estimasi beserta ukuran ketelitiannya menggunakan pendekatan statistika survei.
+
+# Research Highlights
+
+Penelitian ini berhasil mengestimasi karakteristik pola tidur mahasiswa Program Studi Statistika Universitas Mataram menggunakan metode **Cluster Sampling**. Ringkasan hasil penelitian disajikan pada tabel berikut.
+
+| Indikator | Hasil |
+|------------|:------:|
+| Jumlah Responden | **30 Mahasiswa** |
+| Teknik Sampling | **Cluster Sampling** |
+| Jumlah Item Kuesioner Awal | **12 Item** |
+| Item Valid | **10 Item** |
+| Nilai Cronbach's Alpha | **0.901** |
+| Rata-rata Skor Durasi Tidur | **2.533** |
+| Interval Kepercayaan (95%) | **2.223 – 2.843** |
+| Durasi Tidur Terbanyak | **5–6 jam (40%)** |
+| Rata-rata Pola Tidur | **3.100** |
+| Rata-rata Kualitas Tidur | **2.800** |
+| Rata-rata Dampak Tidur terhadap Aktivitas Akademik | **3.467** |
+
+> **Temuan utama:** Mayoritas mahasiswa memiliki durasi tidur **5–6 jam per malam**, dengan kebiasaan tidur yang masih belum optimal. Hasil penelitian juga menunjukkan bahwa responden cukup merasakan adanya pengaruh pola tidur terhadap aktivitas akademik.
 
 ## 🔬 Research Methodology
 
